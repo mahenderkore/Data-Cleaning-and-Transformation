@@ -1,8 +1,11 @@
 # Data-Cleaning-and-Transformation
 After observing recent exit polls, I was eager to understand how the surveys transformed into valuable insights. Here are the results of my recent project on Data Cleaning and Transformation using Advanced Excel and Python:
+
 **Tools:**
 Python, Advance Excel
+
 **Approach:**
+
 🧹 𝗖𝗼𝗹𝘂𝗺𝗻 𝗡𝗮𝗺𝗲 𝗙𝗼𝗿𝗺𝗮𝘁𝘁𝗶𝗻𝗴: I reformatted the column names in accordance with the client's requirements using Excel.
 
 🐍 𝗨𝗻𝗽𝗶𝘃𝗼𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗣𝘆𝘁𝗵𝗼𝗻 𝗠𝗲𝗹𝘁: I used the Python melt function to unpivot the table and eliminate unwanted column entries.
